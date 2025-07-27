@@ -1,0 +1,21 @@
+
+@media (min-width: 992px) {
+    .product-img {
+      min-height: 100%;
+    }
+  }
+
+  .product-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+
+  .product-price {
+    font-size: 2rem;
+    color: #28a745;
+  }
+
+  .product-description {
+    font-size: 1.1rem;
+    color: #555;
+  }
